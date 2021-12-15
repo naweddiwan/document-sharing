@@ -1,6 +1,6 @@
 # document-sharing
 
-## To run the application you must have node and typescript install
+## To run the application you must have node and typescript installed
 
  Run commands
 - npm install
